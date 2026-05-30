@@ -1,0 +1,40 @@
+{
+  "name": "Träningsleken",
+  "short_name": "Träningsleken",
+  "description": "Tre WOD-pass: Death By Anything, Orbison och Deck of Fitness.",
+  "lang": "sv-SE",
+  "id": "/Training-GT/",
+  "start_url": "/Training-GT/index.html",
+  "scope": "/Training-GT/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05102a",
+  "theme_color": "#0a1a3a",
+  "icons": [
+    {
+      "src": "/Training-GT/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Training-GT/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Training-GT/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/Training-GT/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
+
